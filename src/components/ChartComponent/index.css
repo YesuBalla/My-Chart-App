@@ -1,0 +1,31 @@
+.time-frame-container {
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 35px;
+}
+
+.time-frame-label {
+    font-weight: bold;
+    font-size: 24px;
+    color: #700270;
+}
+
+.time-frame {
+    padding: 10px;
+    background-color: transparent;
+    color: #700270;
+    font-weight: bold;
+    margin-left: 10px;
+    border: solid 1px #700270b1;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+    font-size: 17px;
+}   
+.time-frame-option {
+    color: #700270; 
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #810d814a;
+    border-radius: 0;
+}
